@@ -1,0 +1,17 @@
+.main-img{
+  width: 35%;
+  height: 35%;
+}
+.main-test{
+  font-style: italic;
+  font-weight: bold;
+}
+.main-color{
+  background: #82b6ed;
+}
+.important{
+  font-weight: bold;
+}
+.not-important{
+  font-weight: normal;
+}
