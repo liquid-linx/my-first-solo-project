@@ -27,6 +27,10 @@ h1 {
 }
 .main-color{
   background: #82b6ed;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-right: 10px;
+  margin-left: 50px;
 }
 .important{
   font-weight: bold;
