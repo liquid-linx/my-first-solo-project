@@ -30,7 +30,10 @@ h1 {
 }
 .important{
   font-weight: bold;
+  padding-right;
+  border-radius:
 }
 .not-important{
   font-weight: normal;
+  border: 2px solid;
 }
