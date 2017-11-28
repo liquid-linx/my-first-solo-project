@@ -1,7 +1,9 @@
 .panel-title{
-  font-size: 200%;
+  font-size: 150%;
   font-weight:bold;
-  float:right;
+  float:left;
+  position: relative;
+  left: 175%;
 }
 
 .container-main header{
