@@ -12,8 +12,8 @@ _{This is a webpage detailing the webpages I have built alongside
 
 ## Setup/Installation Requirements
 
-*_Can be accessed through my github repository (https://github.com/omarcodus)
-no installation required_
+*_My page can be viewed via the following link
+https://omarcodus.github.io/my-first-solo-project/
 
 *_unzip .zip file and it is ready to view
 
